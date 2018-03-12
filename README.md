@@ -16,3 +16,6 @@ directory. (works for me!)
 
 stopBlanking.sh  is an extra script for killing touchscreen blanking (or
 turning it on!)
+
+WARNING:  You'll have to change the desktop icon to an icon available on your
+Raspberry Pi ('lightbulb' seemed like a logical choice for me!) 
