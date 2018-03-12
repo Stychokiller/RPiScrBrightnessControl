@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=brightness
+GenericName=brightness
+Comment=Set the touchscreen Brightness level
+#TryExec might not be recognized by all versions of Pixel OS...
+#TryExec=/usr/local/sbin/brightness.py
+Exec=/usr/local/sbin/brightness.py
+Icon=lightBulb
+Type=Application
+Categories=GTK;Utility;
